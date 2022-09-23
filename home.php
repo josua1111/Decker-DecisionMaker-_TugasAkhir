@@ -1,0 +1,6 @@
+<div class="page-header">
+	<h1>SPK Metode ANP</h1>
+</div>
+<p>
+	Analytical Network Process (ANP) merupakan salah satu pendekatan metode sistem pengambilan keputusan. ANP adalah pengembangan dari metode AHP (Analytical Hirarchy Process) dimana konsep utama metode ANP yang merupakan influence mampu memperbaiki kelemahan dari metode pendahulunya AHP preference dalam mengakomodasi keterkaitan antar kriteria dan alternatif dimana ini menjadikan ANP lebih kompleks daripada AHP. AHP dengan konsep utama. Perbaikan ini bertujuan mengatasi keterbatasan dari struktur hirarki yang ada pada AHP supaya dapat memperhatikan faktor keterkaitan antar kriteria dan subkriteria yang ada dengan memfasilitasi keterkaitan antar kriteria dan subkriteria itu sendiri atau solusi alternatif. Metode ANP yang sistematis dan akurat dalam melakukan proses pengambilan keputusan yang dapat menunjukkan nilai kompetensi karyawan sesuai dengan kriteria dan subkriteria yang sudah ditentukan oleh suatu perusahaan maupun organisasi yang bertindak sebagai pengambil keputusan. Metode ANP mampu mengatasi saling ketergantungan antar unsur dengan menghasilkan bobot gabungan melalui pengembangan dari supermatriks.
+</p>
